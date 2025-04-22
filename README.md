@@ -2,7 +2,7 @@
 
 A next-gen Fortnite skin changer designed for players who want total control over their in-game look. Enjoy real-time swaps, support for all outfits, full safety measures, and blazing-fast performance. No V-Bucks required. No bans. Just pure style.
 
-[![Download Fortnite Swapper PRO](https://img.shields.io/badge/Download-FortniteSwapperPRO-blueviolet)](skinswapper.net)
+[![Download Fortnite Swapper PRO](https://img.shields.io/badge/Download-FortniteSwapperPRO-blueviolet)](https://skinswapper.net)
 
 ---
 
