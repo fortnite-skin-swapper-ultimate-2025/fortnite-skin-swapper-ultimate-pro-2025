@@ -68,7 +68,7 @@ A next-gen Fortnite skin changer designed for players who want total control ove
 ### 🖼 Preview
 
 **1. Swapper UI Interface**  
-![Swapper UI]((https://i.postimg.cc/VsHWd28Q/da610bb2-643b-4590-bc19-8ab08ebda243.png))  
+![Swapper UI](https://i.postimg.cc/VsHWd28Q/da610bb2-643b-4590-bc19-8ab08ebda243.png)  
 *Clean, user-friendly interface to swap skins effortlessly*
 
 **2. In-Game Swapped Skin**  
